@@ -88,10 +88,6 @@ img{
     background: #f9f9f9;
   }
 
-  .container.grey {
-    background: #fff;
-  }
-
   #steps .row h1 {
     width: 50%;
   }
@@ -105,12 +101,12 @@ img{
     background: #f9f9f9;
   }
 
-  .container.grey {
-    background: #fff;
+  #why .row h1 {
+    width: 50%;
   }
 
-  #why .row h1 {
-    width: 50%
+  .container.grey {
+    background: #fff;
   }
 
 }
